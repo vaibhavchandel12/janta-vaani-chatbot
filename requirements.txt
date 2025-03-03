@@ -1,0 +1,11 @@
+streamlit
+streamlit-chat
+langchain
+langchain-google-genai
+pymongo[srv]
+mysql-connector-python
+requests
+pandas
+python-dotenv
+numpy
+protobuf
